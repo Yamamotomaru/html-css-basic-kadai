@@ -80,7 +80,7 @@ a:active{
   p{
     font-size: 25px;
   }
-  #parents{
+  #parent{
     flex-direction: column;
   }
 
